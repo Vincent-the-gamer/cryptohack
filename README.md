@@ -12,7 +12,7 @@ brew install cmake pkgconf
 uv sync
 ```
 
-## Warm up
+## Warm Up
 
 See the [python file](./introduction/network-attack.py)
 
